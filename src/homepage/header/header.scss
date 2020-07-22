@@ -1,0 +1,36 @@
+.navbar {
+    position: fixed;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 40px;
+    background-color:red;
+    background: rgba(43, 43, 43, 0.5 );
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .navbar input[type=text] {
+    float: right;
+    padding: 20px;
+    border: none;
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: 17px;
+    height: 20px;
+    border-radius: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+  }
+  .navbar h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px; 
+    color: white;
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: bold; 
+    line-height: 26px;
+    margin-top: 30px;
+    margin-right: 40px;
+  }
