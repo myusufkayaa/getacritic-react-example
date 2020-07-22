@@ -1,0 +1,1 @@
+getacritic-react-example
